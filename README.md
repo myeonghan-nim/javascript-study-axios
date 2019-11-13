@@ -1,3 +1,3 @@
 # JavaScript API
 
-- synchronize??? unsynchronize???...🔥
+- synchronize? unsynchronize! 🔥

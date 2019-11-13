@@ -3,7 +3,7 @@ const axios = require('axios')
 axios.get('http://jsonplaceholder.typicode.com/posts')
     .then((response) => {
       console.log(response)
-    })  // normally worked
+    })  // response 200
     .catch((error) => {
       console.log(error)
-    })  // get error
+    })  // response !200
