@@ -1,3 +1,3 @@
-# JavaScript API
+# README
 
 - synchronize? unsynchronize! 🔥
